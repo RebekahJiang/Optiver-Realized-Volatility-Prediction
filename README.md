@@ -8,4 +8,4 @@ The competition is evaluated using the Root Mean Square Percentage Error(RMSPE).
 ## 3. Tools
 (1) **Polars**: Given the massive volume of high-frequency financial data, traditional Pandas may encounter bottlenecks in terms of memory and speed. I use Polars for feature engineering, leveraging its ***lazy execution*** mechanism to achieve ultra-fast data processing.
 
-(2) **Training Model**: LightGBM
+(2) **Training Model**
